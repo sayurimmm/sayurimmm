@@ -1,5 +1,15 @@
-### Hi there 👋
+# 👋 Hi, there. I'm Marieli Sayuri
 
+- Aspiring Fullstrack developer
+- Favorite language: JS <3
+- Currently living in Canada
+
+## Tecnologies 
+
+        
+            <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="40" height="40" />
+          
+          
 <!--
 **sayurimmm/sayurimmm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
