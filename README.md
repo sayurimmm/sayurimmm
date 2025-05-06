@@ -8,6 +8,7 @@
 - Aspiring Fullstrack developer;
 - Favorite language: JS <3;
 - Currently living in Canada;
+- 21y
 
 
 ## Tecnologies 
